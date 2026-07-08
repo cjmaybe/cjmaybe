@@ -13,7 +13,7 @@
 - Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends >⩊<
 - listening to music.
-- Check out my portfolio at [maybecj](https://maybecj.web.app) (Still Building)
+- Check out my portfolio at [maybecj.web.app](https://maybecj.web.app) (Still Building)
 
 <br><br>
 
@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=cjmaybe &theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+  <img src="https://githubreadmestats.shion.dev/apiusername=cjmaybe&theme=dark&hide_border=false&include_all_commits=true&count private=false">
   <br>
   <img src="https://streak-stats.demolab.com/?user=cjmaybe&theme=dark&hide_border=true">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cjmaybe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
