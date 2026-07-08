@@ -54,10 +54,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=insane-cj&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-stats.shion.dev/api?username=cjmaybe &theme=dark&hide_border=false&include_all_commits=true&count_private=false">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=insane-cj&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=insane-cj&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://streak-stats.demolab.com/?user=cjmaybe&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cjmaybe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,13 +67,13 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insane-cj/insane-cj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/insane-cj/insane-cj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/insane-cj/insane-cj/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjmaybe/cjmaybe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjmaybe/cjmaybe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cjmaybe/cjmaybe/output/pacman-contribution-graph.svg">
 </picture>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=insane-cj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cjmaybe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
