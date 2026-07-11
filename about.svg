@@ -25,7 +25,6 @@
       <tspan fill="#7d8590">Hi there, I'm </tspan>
       <tspan fill="#58a6ff">Chiranjeevi</tspan>
       <tspan fill="#7d8590"> </tspan>
-      <tspan fill="#f0883e">✨</tspan>
     </text>
     <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="20 60" to="20 55" begin="0.15s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
@@ -33,10 +32,10 @@
 
   <!-- ========== NICKNAME ========== -->
   <g opacity="0" transform="translate(20, 80)">
-    <text font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
       <tspan fill="#ffa657">My Nickname is </tspan>
       <tspan fill="#22d3ee">சிஜே.</tspan>
-      <tspan fill="#ffa657"> (˶&gt;⩊&lt;˶)</tspan>
+      <tspan fill="#ffa657">(˶&gt;⩊&lt;˶)</tspan>
     </text>
     <animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="20 85" to="20 80" begin="0.21s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
@@ -65,7 +64,6 @@
 
   <g opacity="0" transform="translate(44, 172)">
     <text fill="#ffa657" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">▸ Everything</text>
-    <text x="130" y="0" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">⌨️</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="44 177" to="44 172" begin="0.45s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </g>
@@ -80,71 +78,65 @@
   <g opacity="0" transform="translate(20, 218)">
     <circle cx="6" cy="-3" r="2.5" fill="#3fb950"/>
     <text x="18" fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Feel free to ask me anything!</text>
-    <text x="215" y="0" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I'm motivated to help others</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="20 223" to="20 218" begin="0.57s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </g>
 
   <g opacity="0" transform="translate(20, 241)">
     <circle cx="6" cy="-3" r="2.5" fill="#3fb950"/>
-    <text x="18" fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Outside tech, I enjoy:</text>
+    <text x="18" fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">I'm motivated to help others</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="20 246" to="20 241" begin="0.63s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </g>
 
-  <g opacity="0" transform="translate(44, 261)">
-    <text fill="#ffa657" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">▸ Socializing with friends</text>
-    <text x="220" y="0" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt;⩊&lt;</text>
+  <g opacity="0" transform="translate(20, 264)">
+    <circle cx="6" cy="-3" r="2.5" fill="#3fb950"/>
+    <text x="18" fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Outside tech, I enjoy:</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="44 266" to="44 261" begin="0.69s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <animateTransform attributeName="transform" type="translate" from="20 269" to="20 264" begin="0.69s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </g>
 
-  <g opacity="0" transform="translate(44, 281)">
-    <text fill="#ffa657" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">▸ Listening to music</text>
-    <text x="195" y="0" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">🎵</text>
+  <g opacity="0" transform="translate(44, 284)">
+    <text fill="#ffa657" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      ▸ Socializing with friends 
+      <tspan fill="#7d8590">&gt;⩊&lt;</tspan>
+    </text>
     <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="44 286" to="44 281" begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <animateTransform attributeName="transform" type="translate" from="44 289" to="44 284" begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </g>
+
+  <g opacity="0" transform="translate(44, 304)">
+    <text fill="#ffa657" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">▸ Listening to music 🎵</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="44 309" to="44 304" begin="0.81s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </g>
 
   <!-- ========== DIVIDER ========== -->
-  <g opacity="0" transform="translate(20, 310)">
+  <g opacity="0" transform="translate(20, 335)">
     <line x1="0" y1="0" x2="480" y2="0" stroke="#30363d" stroke-opacity="0.6"/>
-    <animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.3s" fill="freeze"/>
   </g>
 
-  <!-- ========== SECTION: Portfolio ========== -->
-  <g opacity="0" transform="translate(20, 330)">
-    <text fill="#58a6ff" font-size="14" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">┃ Portfolio</text>
-    <animate attributeName="opacity" from="0" to="1" begin="0.87s" dur="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="20 335" to="20 330" begin="0.87s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-  </g>
+  <!-- ========== SECTION: Social ========== -->
+<g opacity="0" transform="translate(20, 355)">
+  <text fill="#58a6ff" font-size="14" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">┃ Socials</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.93s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20 360" to="20 355" begin="0.93s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
 
-  <g opacity="0" transform="translate(20, 355)">
-    <text fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Check out my portfolio at</text>
-    <text x="190" y="0" fill="#22d3ee" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-decoration="underline">maybecj.web.app</text>
-    <text x="340" y="0" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">(Still Building)</text>
-    <animate attributeName="opacity" from="0" to="1" begin="0.93s" dur="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="20 360" to="20 355" begin="0.93s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-  </g>
-
-  <!-- ========== FOOTER / SOCIAL ========== -->
-  <g opacity="0" transform="translate(20, 390)">
-    <text fill="#7d8590" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
-    <animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.4s" fill="freeze"/>
-  </g>
-
-  <g opacity="0" transform="translate(20, 412)">
-    <text fill="#7d8590" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-      <tspan fill="#58a6ff">GitHub</tspan>
-      <tspan fill="#7d8590">  ▸  </tspan>
-      <tspan fill="#c9d1d9">cjmaybe</tspan>
-      <tspan fill="#7d8590">  │  </tspan>
-      <tspan fill="#f0883e">OnlyFans</tspan>
-      <tspan fill="#7d8590">  ▸  </tspan>
-      <tspan fill="#c9d1d9">insane__cj</tspan>
-    </text>
-    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" from="20 417" to="20 412" begin="1.05s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-  </g>
+<!-- ========== SOCIAL LINKS ========== -->
+<g opacity="0" transform="translate(20, 385)">
+  <text fill="#c9d1d9" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <tspan fill="#58a6ff">GitHub</tspan>
+    <tspan fill="#7d8590">  ▸  </tspan>
+    <tspan fill="#c9d1d9">cjmaybe</tspan>
+    <tspan fill="#7d8590">  │  </tspan>
+    <tspan fill="#f0883e">LinkedIn</tspan>
+    <tspan fill="#7d8590">  ▸  </tspan>
+    <tspan fill="#c9d1d9">cjmaybe</tspan>
+  </text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.4s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20 390" to="20 385" begin="0.99s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
 
 </svg>
