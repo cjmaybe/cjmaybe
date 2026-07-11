@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="650" viewBox="0 0 520 650">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="650" rx="12" fill="url(#bgGradient)"/>
+  <rect x="0.5" y="0.5" width="519" height="649" rx="12" fill="none" stroke="#30363d"/>
+
+  <!-- Title Bar -->
+  <line x1="0" y1="30" x2="520" y2="30" stroke="#30363d"/>
+  <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="15" r="5" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="260" y="19" fill="#7d8590" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">cjmaybe@github: ~$ neofetch</text>
+
+  <!-- ========== ASCII ART WITH ANIMATION ========== -->
+  <g opacity="0" transform="translate(10, 45)">
+    <text font-size="8" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" white-space="pre" line-height="1.2">
+      <tspan x="0" dy="0">][[{{}{|cXzXJCJJv/rnvmbkdr&lt;I:,,,,,,::::::,,,::::;;;I;;;III;;IIIIIII;;;;;;;;;::::::::::,:,,""^^""""""</tspan>
+      <tspan x="0" dy="9">xnunnvJ00QLQQQ0QOZOmOqbaobn]!l!:::,,,,,::,,,,,:;;;;IllllIIll!!!!!!!lllIlIIlIIIlllI;;;;::;;::;:"^""^^</tspan>
+      <tspan x="0" dy="9">XJCLOmmwmZOO0LQOZqdh*MW&amp;&amp;&amp;Mh0c[&gt;l;;:,,,;;;::::;;;;;;;IIlll!l!!!!!!!!!!!!!!!!!ii!!lllllIII;;;;;;;:,,,</tspan>
+      <tspan x="0" dy="9">UOmwqppqwmZmZOZmbaaM&amp;8%%BBBB%MO\{-~!;::;::;;;I;;;IllIIIIIllllll!!ii&gt;&gt;&gt;&gt;&gt;~~&lt;&gt;i&gt;ii!!!!!l!!lllIIIII;I</tspan>
+      <tspan x="0" dy="9">c0mwppppdpppddbh**M&amp;%BB@@@BBB%&amp;awc[[-&lt;&gt;!l;;;:,::::;;IlIlllllllllll!!i&gt;&lt;~+~~~&lt;&gt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;&gt;&lt;&gt;&gt;&lt;i&gt;ii!!!!!llIII</tspan>
+      <tspan x="0" dy="9">uQmqpbkhkaahkba#&amp;8%%B@BB%&amp;M8&amp;M*#a0vr|}-ii&gt;i&gt;ii!l;:::::;;Il!!ll!!!!!!&gt;&gt;&gt;&lt;i&lt;&lt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;~~~~&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;ii!!</tspan>
+      <tspan x="0" dy="9">{)xQphha*###ab#W&amp;8%%BB%#dppw0JcJpwOCv(+~~&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;i!lli!l!i!!&lt;iii&gt;&lt;~+-___+~&gt;!l!!!!&lt;&lt;_~?-[{-??~&lt;&lt;&lt;&gt;&gt;</tspan>
+      <tspan x="0" dy="9">}-{Y0Ob*W&amp;88MaW8%BBBB%#ka*ahbmZQJCJYvj(?+~~&lt;&lt;~~~~~~~&lt;&lt;~+~_?&lt;&gt;~~~&lt;&lt;]?{{}{[]]?+~&gt;&gt;i~?_~_]]}/\)()?_+++&lt;</tspan>
+      <tspan x="0" dy="9">0jrCmOOd#8BB8W8%BB8M*W8BB%88&amp;&amp;&amp;&amp;*qQmmu)({-++_]-__-?_+~_})|t\{}}[]}{(t/t\|jt1|1{11|\11]-]1}-__?-[{{{</tspan>
+      <tspan x="0" dy="9">L|\w#M#**&amp;%BB888oJ\|(thB@B%&amp;&amp;&amp;&amp;88&amp;*awQL00JvYwh#*dv/]~&lt;[|xnnuftf\(})\frfttuLLYzxvxvzxj1~])[-&lt;i!~-}1|x</tspan>
+      <tspan x="0" dy="9">nLftk8%%8&amp;&amp;8B8#c;;&lt;Jn&gt;(#BB8WM#W8Mkh#W&amp;BBB%h%B%%BB%w(?+tt/zJUcnj||}}1/)]](cUJYcuuvUUzzjvxcj&lt;lIi&lt;&lt;_?{r</tspan>
+      <tspan x="0" dy="9">))tnfZ&amp;%%&amp;MM8M1";:,,:"(WB%**#**aqp&amp;B%&amp;&amp;8BB888&amp;&amp;MM&amp;hxjbod#qQYurf)}]}{}?&gt;~{ff/{]|/jnxYQZOwLt1()}_&lt;}\u0</tspan>
+      <tspan x="0" dy="9">t1+-nLb8%%8&amp;8C&amp;!,^``!Q8B&amp;M#MM*hMMW8&amp;ao#MW8W#akYrZhd00JUzq*Ujfff\([1)}~~_]1]-~-[}1{(rxJOOJYzuj1~}jXpo</tspan>
+      <tspan x="0" dy="9">vj({1fJqaM8%%B%w_!fdWW#M8BBBB%%%%%8#QJLwpOn\ft&gt;:}nLLLCJzUaU11\nznxxj)_--?[~&lt;~_]-__-]|vXCQJCLt-&lt;_jwao</tspan>
+      <tspan x="0" dy="9">rXOmQXxuUqM8%BB&amp;0YcOb#%%B@@BB&amp;a*&amp;bdwct))jt[&gt;!iI,"`""I]_l\mv1}\rzXJYzt){[?+-+_?_-]]--]})\\xYzt]&lt;~rmho</tspan>
+      <tspan x="0" dy="9">UJYqahmOmd*&amp;8%%8oqdoW%88B@@BB%pQmUt)1?&lt;~[}{}]_!,`''`:&gt;-nwOur\[)(tvCunvx{?]?--]1[_&gt;&lt;&gt;&lt;+?-?(tf|+!~/Lka</tspan>
+      <tspan x="0" dy="9">pko*oadkkpdo#M#*kwd*W8W%BBBBBBo|?)))&lt;^'^Il~-+iII;:!+-/qMMkLujf1?[/zzLOXn/}{[}}?-_&lt;&gt;&gt;~+~~+_?\|~!i1Xdk</tspan>
+      <tspan x="0" dy="9">OpdbbpqOZwmmQYLZm0UjX&amp;%W&amp;888%%%#c[--:`'.`^```""^^,!~th88WabmUr)]+-fYwpwQJUx|}??---[?--+~_-[{]!;!?x0Z</tspan>
+      <tspan x="0" dy="9">dwwdbpdbhdJXzuxuXr]&gt;|kM#*bba*W&amp;*Uf//}&lt;l:,,:::;Ii&lt;&gt;&gt;(C#&amp;&amp;&amp;MkmCc\&lt;l~-tQdkkbpQz\)1[[[}}{1]+&gt;&lt;~&gt;l;:l[tcU</tspan>
+      <tspan x="0" dy="9">M#hO\~~[fzj\(1))-iii+xQCYXvYOh&amp;bUUj)_&gt;+}\ft/|(1}[]})cbMW#WWowQj?+&lt;&lt;]rCZhoakmYj//f/{[_~&gt;l!illl;!?)\tx</tspan>
+      <tspan x="0" dy="9">aaZ&gt;^I:',~?}{[~"^,;,,i?}}[(uO*&amp;##MbCt(11((){]-+!:;!~xh#MMM#kodOu)?&lt;+_(nUZwhbqwqZJn|-++--_+++&lt;&lt;?}){[|</tspan>
+      <tspan x="0" dy="9">dq}`;>^^nOx1vXYUCOwCx/~+\cCZpha##aOx_+&lt;+}/ft|){_l!]xQaMMMMokoaqJur(}--?1jzLZmqwZOQYn/\1[--]]}(fnvr)f</tspan>
+      <tspan x="0" dy="9">L/^''..}hpQUmLOaobkZzr1/cCQZwdaakwc?~&lt;ii](\)fjffffrc0po#*ahkhhqZwLc1+~~+--(f\\rcYXcuvuxnvcnrjrxnn/}x</tspan>
+      <tspan x="0" dy="9">u+'..'1bpvC0OOaakkdQzn\rXUUL0mqmQv}i!&lt;!li_}{{)txvzYYJ0ZZZOQmkpmmZQzf[~iliii~~]{{[?[{)|jxffnxjjf//jxv</tspan>
+      <tspan x="0" dy="9">\xJQwdbmcxUCLbpqdpwZQXrvYXzXUCXvtiIii~&gt;!I;l?{}][(/nvcvxnYCZqpmLYYXccc[&lt;~~&gt;ill!&gt;+__--+]tXcjrccvuuvzvx</tspan>
+      <tspan x="0" dy="9">(/CwqOYnj/uJQpbwZZZQCcuczzvzzvx(&lt;I:l&gt;__++~~~_]{{{1(\|/xvzYL0Urfrrrxnnj|[-~~&gt;!&lt;_++~+++_|YUXJ0QJLCJJUY</tspan>
+      <tspan x="0" dy="9">?]rcYcnxtnrnXq0C0OQYzczvvunnr/1~l:Ii~]1)|||1[}1(|/ftffjrvJmwOUzXXzx/tjjf|1]+&gt;&gt;~-]?}{)|jJ00mqqpddpwQ0</tspan>
+      <tspan x="0" dy="9">-&gt;?[)|/juf|}uXvnJXCnvnvuxrf|[_+&lt;I:!-]}(\/\(1{1(|}{|\\/fnJwkbqm0JXnxcYCYcnt|)}}1|\jcCQL0Zqwqbkkaoohdq</tspan>
+      <tspan x="0" dy="9">{i;l_[(rx1+{f||(rjuu/rxrxj|]+&lt;iI:;<?)((||()1{1((11|/jrvLda**abwOLJYUQCJCJcnuzJ0OZwqqqpddbkhoao*##ohk</tspan>
+      <tspan x="0" dy="9">{_&gt;;;_1\[_l][[))(x(nf/fx/{]??+iI;!]1(|\\//\\||\//tjjncJ0do#M#odZQUXUYxruXYCOqdkkbbdbkkhkka*##*oo**oa</tspan>
+      <tspan x="0" dy="9">---_~~~l&gt;+++~[}1))j(r||)--[-~++~_}((|/tttffttffjjrxuXJ0wba*#M#apmOQJUujffrvCOZOmqpqdaaaoaa*#ohkhoooh</tspan>
+      <tspan x="0" dy="9">&gt;~~&lt;]-&lt;i;;-_i&lt;+-[[))}|{&gt;~__+_[}{(ttttfrxxxrrxnuvvccYC0wpbao*#okbqmOCct)(||rXQQCOpwmphaa**aa##ooooahk</tspan>
+      <tspan x="0" dy="9">&gt;&gt;&lt;]-+&gt;~ii-ilii&gt;&lt;iI~-_]]~~~+-1|jrrrnnrnnrrxuuvcXUJJCQOmpbkaaahhhbwmqmQUXujuQwqwqdqZpaaho*#W&amp;WM#*a*ha</tspan>
+      <tspan x="0" dy="9">i!;i&gt;&gt;&lt;&lt;&gt;-I,IIIl;li~-_+_&lt;+}(jxrxxnuvuununnvcXYJCLL0OZmpkkkbdppddbhahpmwmmwdkbkhbqk*##kh*MWW#*kbakkp</tspan>
+      <tspan x="0" dy="9">^`'.`^^",,~I,;;;lllli&lt;&gt;!-?{/frxrruczczXzzYYUUUCCL000mqddbpmmwpkao##obqmqppppdkhoohh#MMoo#MW#akwqkdqw</tspan>
+      <tspan x="0" dy="9">"^'......`!^``",,,:IiiI_1|/tfxrt\fnuczUJUUUJJUCCL0OZwdbpZmwwmwdkhhahpmmmmZLJ0Z00paao**#MM#abbqqdpmLQ</tspan>
+      <tspan x="0" dy="9">,"`'.   ..^'...'^:l&lt;_]-]((|/jj/////xucXUULLCLQ00Q0Z0ZmqqQ0mqmOLYXYOppZUXUYcYJzvcObhdpbhkkbpmO0CL00UJ</tspan>
+      <tspan x="0" dy="9">I:"^`......'..`":l~?[[??]}|/|((\\(|trxuvcYCCLOZZmZmwwwqqmZqkhd0CQZmZOQJC00OQYvzJQmQYUCUUYzcvxjcJOOzz</tspan>
+      <tspan x="0" dy="9">!l:"`'.. ....'^,I!i&lt;&lt;&gt;+?]][11)(()()1(\tfjxnuzJQOO0O0ZwqqdkbpqqwZZOOOZZmZO0LXrjnnxrtjrttftfrrnuUQww0u</tspan>
+      <tspan x="0" dy="9">&gt;il;"^'....'```""",;I!&lt;~+?[1)){~i&lt;&lt;&lt;?[{(\/tjjxuvcvuuvzULOZmmOQLCLQQQ0QQQLJXvr/|/t/\tj/|ttffjjjvzYUYY</tspan>
+      <tspan x="0" dy="9">&lt;&gt;!l:"`...''`````^",:l!&lt;-]}[]-!,,:,;l&lt;_]1(()(|/ttt/1]}/rxnuzczYXzczYYUYXcr){[+?(((|/t|()1{}]]}]?]-_1</tspan>
+      <tspan x="0" dy="9">+&lt;&gt;!I:"''..''''.'`^,IIli!i&lt;+_-+!III:,,I!~?}[[][}{{11111{]]})/tf/|)|tjrrj/(){-_]}}{{1)[~I;;"",:""^";:</tspan>
+      <tspan x="0" dy="9">_+&lt;&gt;iI,^`'......'''`^:Il&gt;_-]]_&lt;!;;I:`''''`^^,I;;I!&gt;&gt;~+__?][[}}[-+~-[][)(1]-+&gt;_]]_&lt;+_+l"^^^^";l&gt;&gt;l;Il</tspan>
+      <tspan x="0" dy="9">?_+&lt;&gt;!l,^`''....`^``";i&gt;___~&gt;&lt;i;,:ll:'....   ....`"^^^",;llI;IIIi&gt;&gt;!!~--_-_~!I!!l:"^,",;;Ili&gt;+_~&lt;_]]</tspan>
+      <tspan x="0" dy="9">[?_~&lt;&gt;!;"^`'.....`''`";!!!i&lt;~?][[[-l`.....   .....  .... ......''''''`^,:II;;,::::::;Il!i&gt;&lt;+-]}}{1{[</tspan>
+      <tspan x="0" dy="9">}[-+~&lt;&lt;I:"^'.....'``^":l~[(/jrrjfft(~^....     ...   .............''''```^"":;;;l!!i&gt;&lt;&lt;~~+-?[}{1)(|/</tspan>
+      <tspan x="0" dy="9">1[?-+~&lt;I;,"`'......'`,!+[)/rnunnnxxt~,`....  ......  .....''''''`'`^^^^^,;IIIl!ii&gt;~_--]}}{(()1|(|\/f</tspan>
+      <tspan x="0" dy="9">|{[?+~+lI:,"`. ......`";&lt;]1|/fjxvuvn\I'.............'.''''```^^^^^",,,:;ll!!&gt;&lt;~_+_][}{1(|\\\/tfffffj</tspan>
+      <tspan x="0" dy="9">\)}]___il;:,^'.......`^,!+-[)\|\nczvn1"''''..'''''``````^^","""::;;l!&gt;&gt;&gt;&lt;++++_+]}{{11(|/ttfjrxxxnnuu</tspan>
+      <tspan x="0" dy="9">/|1[???&gt;l;:,"`...... .'`:l~?}(trvzzYXu]^'''''`````^^^"",,,,:;II;::I!i&lt;++_-][[[[}1)(|/tfrxxuvuvvccccv</tspan>
+      <tspan x="0" dy="9">t\){]}[~il;;,^'........':&lt;_?[)\\/frvXXc|i^````^^""",,:;Il!!!!l!i&gt;&gt;&gt;&gt;&lt;++_?[}111)||\//tjxnvvczzccczzzz</tspan>
+      <tspan x="0" dy="9">f/(1}{}~i!I;,"'.......`,+}[]?-+_[1/xvt(\f?,"""",,:Ill!!l!ii&gt;&lt;&lt;~+~~+-[}}]][1(\tftfjrxnnnuvccczXXXYXX</tspan>
+      <tspan x="0" dy="9">f/\1{({-&lt;ilI:"'......`l[{{1{[][1}}|tt1)/f1!",,::IIIll!!i&gt;&lt;~~~++_---??[[}{)))(\ttjrxnunnuvcccccXcuXUY</tspan>
+      <tspan x="0" dy="9">rf\)1\{?+&gt;i!;,'...''`!?[))){]]}}]]|rur/1&lt;;;;;IIIll!!i&gt;&gt;&gt;&lt;+__?]]]][}{}1))1)||\\//ff//ruczzYXYXXUYXzXY</tspan>
+      <tspan x="0" dy="9">xj/(|j)?-+&lt;il;'..''`i1]]1{--?{1{[)fuXXnl::;;IIIl!ii&gt;i&gt;&lt;&lt;+____-]][{1}{1)(((|()(/fffrxncvzXzXXXXJLCJJC</tspan>
+    </text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="10 50" to="10 45" begin="0.15s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </g>
+
+  <!-- ========== SECTION: About Me (moved down to accommodate larger ASCII art) ========== -->
+  <g opacity="0" transform="translate(20, 555)">
+    <text fill="#58a6ff" font-size="14" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">┃ About Me</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="20 560" to="20 555" begin="0.90s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </g>
+
+  <g opacity="0" transform="translate(44, 578)">
+    <text fill="#c9d1d9" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Hi there, I'm Chiranjeevi</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="44 583" to="44 578" begin="0.95s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </g>
+
+  <!-- ========== FOOTER / SOCIAL ========== -->
+  <g opacity="0" transform="translate(20, 610)">
+    <text fill="#7d8590" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.4s" fill="freeze"/>
+  </g>
+
+  <g opacity="0" transform="translate(20, 630)">
+    <text fill="#7d8590" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <a href="https://github.com/cjmaybe" target="_blank">
+        <tspan fill="#58a6ff" style="cursor:pointer;text-decoration:underline;">GitHub</tspan>
+      </a>
+      <tspan fill="#7d8590"> ▸ </tspan>
+      <a href="https://github.com/cjmaybe" target="_blank">
+        <tspan fill="#c9d1d9" style="cursor:pointer;text-decoration:underline;">cjmaybe</tspan>
+      </a>
+      <tspan fill="#7d8590"> │ </tspan>
+      <a href="https://maybecj.web.app" target="_blank">
+        <tspan fill="#22d3ee" style="cursor:pointer;text-decoration:underline;">Portfolio</tspan>
+      </a>
+    </text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="20 635" to="20 630" begin="1.05s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </g>
+
+</svg>
