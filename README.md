@@ -8,7 +8,7 @@
 </tr>
 </table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maybecj.com-0d1117?style=for-the-badge&logo=firebase&logoColor=white)](https://maybecj.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maybecj-0d1117?style=for-the-badge&logo=firebase&logoColor=white)](https://maybecj.web.app)
 [![LinkTree](https://img.shields.io/badge/LinkTree-43E661?style=for-the-badge&logo=Linktree&logoColor=black)](https://linktr.ee/insane__cj)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
