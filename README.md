@@ -1,30 +1,24 @@
+<div align="center">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/cjmaybe">Chiranjeevi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h3>My Nickname is <a href="https://onlyfans.wtf/insane__cj">சிஜே. </a> (˶>⩊<˶)</h3> 
+<table>
+<tr>
+<td valign="top"><img src="./about.svg" width="490" alt="about me" /></td>
+<td valign="top"><img src="./ascii.svg" width="390" alt="ascii art" /></td>
+</tr>
+</table>
 
-### About Me 
-
-<img align="right" width="200px" alt="சிஜே." src="https://ugc.production.linktr.ee/977e7278-f94f-49ae-9cc8-14df1f0e97e2_AWEKDORrbQmB4i3j-3SZxDD-ZfX4PCYi2XuLcte8Y3cD-UIs5-G4G9Bl9kaMmy9LMVtjScTeBw-s900-c-k-c0x00ffffff-no-r.jpeg?io=true&size=avatar-v3_0" style="border-radius:5px; margin-left:20px; margin-top:-10px;"/>
-
-- I’m currently learning ... 
-  - *Everything* <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="40px" width="20px">
-- I’m eager to join new projects.
-- Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends >⩊<
-- listening to music.
-- Check out my portfolio at [maybecj.web.app](https://maybecj.web.app) (Still Building) 
-
-<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-maybecj.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.maybecj.web.app)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### Skills
 
 #### *Languages & Frameworks:*
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,java,python&perline=15">
+<div align="center"
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,java,python&perline=15"/>
 </div>
 
 #### *Tools & Infrastructure:*
@@ -78,5 +72,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cjmaybe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cjmaybe&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </div>
