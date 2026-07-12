@@ -25,7 +25,7 @@
 #### *Tools & Infrastructure:*
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,docker,figma,mysql,mongodb,postgres,ae,ps,pr&perline=15"/>
+    <img src="https://skillicons.dev/icons?i=arch,firebase,vercel,netlify,docker,figma,mysql,mongodb,postgres,ae,ps,pr&perline=15"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
