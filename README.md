@@ -8,8 +8,7 @@
 </tr>
 </table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maybecj-0d1117?style=for-the-badge&logo=firebase&logoColor=white)](https://maybecj.web.app)
-[![LinkTree](https://img.shields.io/badge/LinkTree-43E661?style=for-the-badge&logo=Linktree&logoColor=black)](https://linktr.ee/insane__cj)
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=a371f7&center=true&width=500&height=45&lines=Chiranjeevi;Meowowwl" alt="typing" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -36,6 +35,14 @@
 
 <div align="center"><a href="mailto:studypurposeofcj@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/cjmaybe"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/insane__cj"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/857535722641817611"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Discord.png" alt="Discord" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
+<br>
+
+<div align="center">
+    
+[![Portfolio](https://img.shields.io/badge/Portfolio-maybecj-0d1117?style=for-the-badge&logo=firebase&logoColor=white)](https://maybecj.web.app)
+[![LinkTree](https://img.shields.io/badge/LinkTree-43E661?style=for-the-badge&logo=Linktree&logoColor=black)](https://linktr.ee/insane__cj)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
